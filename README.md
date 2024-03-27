@@ -10,5 +10,5 @@
 
 ## 👀 Les exemples
 
-- 
+- Utiliser des variables
 
