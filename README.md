@@ -18,6 +18,7 @@
 - Formulaire POST
 - Parcourir un texte
 - Récupérer des informations avec fscanf
+- Redirection automatique
 - Remplacer des caractères dans un texte
 - Serveur web de PHP
 - Upload de fichier
