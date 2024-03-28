@@ -10,5 +10,6 @@
 
 ## 👀 Les exemples
 
+- Récupérer des informations avec fscanf
 - Serveur web de PHP
 - Utiliser des variables
