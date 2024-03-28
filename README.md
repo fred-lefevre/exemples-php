@@ -10,6 +10,7 @@
 
 ## 👀 Les exemples
 
+- Afficher et traiter un formulaire GET avec un unique fichier PHP
 - Comparer des nombres avec une instruction conditionnelle
 - Compter des caractères dans un texte
 - Dates et horaires
