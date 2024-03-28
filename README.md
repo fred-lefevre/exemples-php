@@ -21,6 +21,7 @@
 - Redirection automatique
 - Remplacer des caractères dans un texte
 - Serveur web de PHP
+- Sessions en PHP
 - Upload de fichier
 - Utiliser des constantes
 - Utiliser des variables
