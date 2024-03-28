@@ -10,6 +10,7 @@
 
 ## 👀 Les exemples
 
+- Comparer des nombres avec une instruction conditionnelle
 - Récupérer des informations avec fscanf
 - Serveur web de PHP
 - Utiliser des constantes
