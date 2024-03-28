@@ -13,6 +13,7 @@
 - Comparer des nombres avec une instruction conditionnelle
 - Compter des caractères dans un texte
 - Dates et horaires
+- Formulaire GET
 - Parcourir un texte
 - Récupérer des informations avec fscanf
 - Remplacer des caractères dans un texte
