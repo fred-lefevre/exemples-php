@@ -14,6 +14,7 @@
 - Ajax avec PHP et jQuery
 - Comparer des nombres avec une instruction conditionnelle
 - Compter des caractères dans un texte
+- CRUD ou comment utiliser une base de données
 - Dates et horaires
 - Formulaire GET
 - Formulaire POST
