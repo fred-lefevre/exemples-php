@@ -15,6 +15,7 @@
 - Compter des caractères dans un texte
 - Dates et horaires
 - Formulaire GET
+- Formulaire POST
 - Parcourir un texte
 - Récupérer des informations avec fscanf
 - Remplacer des caractères dans un texte
