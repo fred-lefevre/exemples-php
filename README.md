@@ -12,4 +12,5 @@
 
 - Récupérer des informations avec fscanf
 - Serveur web de PHP
+- Utiliser des constantes
 - Utiliser des variables
