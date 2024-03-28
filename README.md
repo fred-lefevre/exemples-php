@@ -20,5 +20,6 @@
 - Récupérer des informations avec fscanf
 - Remplacer des caractères dans un texte
 - Serveur web de PHP
+- Upload de fichier
 - Utiliser des constantes
 - Utiliser des variables
