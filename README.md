@@ -11,6 +11,7 @@
 ## 👀 Les exemples
 
 - Comparer des nombres avec une instruction conditionnelle
+- Compter des caractères dans un texte
 - Parcourir un texte
 - Récupérer des informations avec fscanf
 - Serveur web de PHP
