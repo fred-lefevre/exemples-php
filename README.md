@@ -12,6 +12,7 @@
 
 - Afficher et traiter un formulaire GET avec un unique fichier PHP
 - Ajax avec PHP et jQuery
+- Calculer la somme de deux nombres avec une fonction
 - Comparer des nombres avec une instruction conditionnelle
 - Compter des caractères dans un texte
 - CRUD ou comment utiliser une base de données
